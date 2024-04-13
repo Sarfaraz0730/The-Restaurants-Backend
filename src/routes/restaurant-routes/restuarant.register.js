@@ -1,0 +1,1 @@
+console.log("the restaurant regsitration route is about to be created")

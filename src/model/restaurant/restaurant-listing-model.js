@@ -1,0 +1,1 @@
+console.log("the restaurant model/ schema is about to be created")
